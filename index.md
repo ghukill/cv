@@ -5,7 +5,7 @@ title: Graham Hukill CV
 
 # Graham Hukill
 
-Ypsilanti, MI<br>
+**place:** Ypsilanti, MI<br>
 **email:** ghukill at gmail.com<br>
 **telephone:** 206.375.2061
 
@@ -23,13 +23,13 @@ Ypsilanti, MI<br>
 
 ## Academic Appointments
 
-2013-Present -- University of Michigan, School of Information -- Intermittent Lecturer<br>
+**University of Michigan, School of Information** - Intermittent Lecturer, 2013-Present<br>
 * SI629, Access Systems
 
-2015-2015 -- Wayne State University, School of Library and Information Science -- Lecturer<br>
+**Wayne State University, School of Library and Information Science** - Lecturer, 2015-2015<br>
 * 7740, Digital Libraries
 
-2011-2012 -- University of Michigan, School of Information -- Graduate Student Instructor<br>
+University of Michigan, School of Information - Graduate Student Instructor, 2011-2012<br>
 * SI539, Design of Complex Websites
 
 
