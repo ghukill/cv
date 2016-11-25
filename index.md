@@ -70,11 +70,16 @@ title: Graham Hukill CV
  * Taught English at private academy to students K-12, essay writing to University students
 
 
+
 ## Publications
+
+Charbonneau, D. H., Priehs, M., & Hukill, G. (2016). Beyond knowledge silos: Preserving and sharing institutional knowledge in academic libraries. *IFLA 2016 Knowledge Management Satellite Conference Proceedings*. [https://sites.google.com/site/ifla2016km/abstracts-full-papers](https://sites.google.com/site/ifla2016km/abstracts-full-papers)
 
 Hudson, C., & Hukill, G. (2016). One-To-Many: Building a single-search interface for disparate resources. In K. Varnum (Ed.), Exploring Discovery: The front door to your library’s licensed and digitized content (141-153). Chicago, IL: ALA Editions.
 
 Donovan, L., Hukill, G., & Peterson, A. (2013). The Web Archiving Life Cycle Model. 2013-12-12]. http://archive-it. org/static/files/archiveit life_cycle_model. pdf.
+
+
 
 ## Presentations
 
@@ -91,7 +96,6 @@ Digital Preservation 2014, Washington DC - July, 2014<br>
 *"Making It Up as We Go Along: How We Built Our Digital Collections Platform"*<br>
 Library Technology Conference, Minneapolis, MN - March, 2014<br>
 [http://digitalcommons.macalester.edu/libtech_conf/2014/sessions/6/](http://digitalcommons.macalester.edu/libtech_conf/2014/sessions/6/)
-
 
 ### Regional
 
