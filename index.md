@@ -5,10 +5,11 @@ title: Graham Hukill CV
 
 # Graham Hukill
 
+Ypsilanti, MI<br>
 **email:** ghukill at gmail.com<br>
 **telephone:** 206.375.2061
 
-
+-----------------------------------------------------
 
 ## Education
 
@@ -71,7 +72,13 @@ title: Graham Hukill CV
 
 
 
-## Publications
+## Awards / Recognition
+
+ * Yahoo! Award for Innovative Teaching with Technology (April, 2012)
+
+
+
+## Selected Publications
 
 Charbonneau, D. H., Priehs, M., & Hukill, G. (2016). Beyond knowledge silos: Preserving and sharing institutional knowledge in academic libraries. *IFLA 2016 Knowledge Management Satellite Conference Proceedings*. [https://sites.google.com/site/ifla2016km/abstracts-full-papers](https://sites.google.com/site/ifla2016km/abstracts-full-papers)
 
@@ -81,7 +88,7 @@ Donovan, L., Hukill, G., & Peterson, A. (2013). The Web Archiving Life Cycle Mod
 
 
 
-## Presentations
+## Selected Presentations
 
 ### National
 
@@ -138,8 +145,3 @@ Michigan Library Association (MLA), Detroit, MI - March, 2013<br>
 ## Code Contribution
 
 All public work and contributions are available on GitHub: [https://github.com/ghukill/](https://github.com/ghukill/)
-
-
-## Awards / Recognition
-
- * Yahoo! Award for Innovative Teaching with Technology (April, 2012)
