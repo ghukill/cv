@@ -7,7 +7,6 @@ title: Graham Hukill CV
 
 **place:** Ypsilanti, MI<br>
 **email:** ghukill at gmail.com<br>
-**telephone:** 206.375.2061
 
 -----------------------------------------------------
 
