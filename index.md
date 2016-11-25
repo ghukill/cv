@@ -75,9 +75,9 @@ title: Graham Hukill CV
 
 Charbonneau, D. H., Priehs, M., & Hukill, G. (2016). Beyond knowledge silos: Preserving and sharing institutional knowledge in academic libraries. *IFLA 2016 Knowledge Management Satellite Conference Proceedings*. [https://sites.google.com/site/ifla2016km/abstracts-full-papers](https://sites.google.com/site/ifla2016km/abstracts-full-papers)
 
-Hudson, C., & Hukill, G. (2016). One-To-Many: Building a single-search interface for disparate resources. In K. Varnum (Ed.), Exploring Discovery: The front door to your library’s licensed and digitized content (141-153). Chicago, IL: ALA Editions.
+Hudson, C., & Hukill, G. (2016). One-To-Many: Building a single-search interface for disparate resources. In K. Varnum (Ed.), Exploring Discovery: The front door to your library’s licensed and digitized content (141-153). Chicago, IL: ALA Editions. [http://digitalcommons.wayne.edu/libsp/114/](http://digitalcommons.wayne.edu/libsp/114/)
 
-Donovan, L., Hukill, G., & Peterson, A. (2013). The Web Archiving Life Cycle Model. 2013-12-12]. http://archive-it. org/static/files/archiveit life_cycle_model. pdf.
+Donovan, L., Hukill, G., & Peterson, A. (2013). The Web Archiving Life Cycle Model. 2013-12-12]. [http://ait.blog.archive.org/files/2014/04/archiveit_life_cycle_model.pdf](http://ait.blog.archive.org/files/2014/04/archiveit_life_cycle_model.pdf)
 
 
 
@@ -121,6 +121,10 @@ Network Detroit, Southfield, MI - September, 2014<br>
 "Cleared for Deposit!  Tool for Reviewing Faculty CV's and Depositing Articles in an Institutional Repository" [poster]<br>
 MLA Academic Libraries, Lansing, MI - May, 2014<br>
 [http://digitalcommons.wayne.edu/libsp/82/](http://digitalcommons.wayne.edu/libsp/82/)
+
+“Digital Commons & SHARE: Opportunities and Challenges in Implementing the ARL Recommendations for DC Users”<br>
+Digital Commons Great Lakes User Group Meeting 2013, Illinois Wesleyan University, Bloomington, Il - August, 2013<br>
+[http://digitalcommons.iwu.edu/dcglug/2013/bof/5/](http://digitalcommons.iwu.edu/dcglug/2013/bof/5/)
 
 "Let There Be Light! Indexing Items from Digital Commons in Apache Solr via OAI-PMH" [poster]<br>
 Digital Commons Great Lakes User Group (DCGLUG), Bloomington-Normal, IA - July, 2013<br>
