@@ -92,6 +92,9 @@ Donovan, L., Hukill, G., & Peterson, A. (2013). The Web Archiving Life Cycle Mod
 
 ### National
 
+*"Growing Up Fast: Using Vagrant to Prototype New Infrastructure"*<br>
+LITA Forum 2016, Fort Worth, TX - November, 2016<br>
+
 *"Digital Humanities in Ten Pages or Less!  Engaging Students with Digital Texts through Sustainable Collaboration"*<br>
 ACRL 2015, Portland, OR - March, 2015<br>
 [http://digitalcommons.wayne.edu/libsp/93/](http://digitalcommons.wayne.edu/libsp/93/)
