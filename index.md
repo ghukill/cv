@@ -79,6 +79,8 @@ title: Graham Hukill CV
 
 ## Selected Publications
 
+Hukill, G., Klein, J., &amp; Arnold, J. (2017). “Reading Digital Texts: A Faculty-Librarian Classroom Collaboration”. College & Undergraduate Libraries. (Forthcoming)
+
 Charbonneau, D. H., Priehs, M., & Hukill, G. (2016). Beyond knowledge silos: Preserving and sharing institutional knowledge in academic libraries. *IFLA 2016 Knowledge Management Satellite Conference Proceedings*. [https://sites.google.com/site/ifla2016km/abstracts-full-papers](https://sites.google.com/site/ifla2016km/abstracts-full-papers)
 
 Hudson, C., & Hukill, G. (2016). One-To-Many: Building a single-search interface for disparate resources. In K. Varnum (Ed.), Exploring Discovery: The front door to your library’s licensed and digitized content (141-153). Chicago, IL: ALA Editions. [http://digitalcommons.wayne.edu/libsp/114/](http://digitalcommons.wayne.edu/libsp/114/)
@@ -111,6 +113,9 @@ Library Technology Conference, Minneapolis, MN - March, 2014<br>
 
 *“Mapping Detroit’s Medical History: Data Workflows and Digitized Journals"*<br>
 Network Detroit, Southfield, MI - September, 2015<br>
+
+*“Digital Humanities and Social Sciences”*<br>
+Gale-Cengage, Michigan, July, 2015 [invited]
 
 *"Improving Our Reference Data, or How We Killed the Hash Mark"*<br>
 Michigan Library Association (MLA) Academic Libraries, Bay City, MI,  - May, 2015<br>
