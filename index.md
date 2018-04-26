@@ -29,10 +29,6 @@ title: Graham Hukill CV
 **Wayne State University, School of Library and Information Science** - Lecturer, 2015-2015<br>
 * 7740, Digital Libraries
 
-**University of Michigan, School of Information** - Graduate Student Instructor, 2011-2012<br>
-* SI539, Design of Complex Websites
-
-
 
 ## Employement
 
