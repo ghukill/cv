@@ -91,63 +91,7 @@ Donovan, L., Hukill, G., & Peterson, A. (2013). The Web Archiving Life Cycle Mod
 
 ## Selected Presentations
 
-### National
-
-*"Growing Up Fast: Using Vagrant to Prototype New Infrastructure"*<br>
-LITA Forum 2016, Fort Worth, TX - November, 2016<br>
-[http://digitalcommons.wayne.edu/libsp/125/](http://digitalcommons.wayne.edu/libsp/125/)
-
-*"Digital Humanities in Ten Pages or Less!  Engaging Students with Digital Texts through Sustainable Collaboration"*<br>
-ACRL 2015, Portland, OR - March, 2015<br>
-[http://digitalcommons.wayne.edu/libsp/93/](http://digitalcommons.wayne.edu/libsp/93/)
-
-*"Wayne State's Digital Collections Infrastructure"*<br>
-Digital Preservation 2014, Washington DC - July, 2014<br>
-[http://digitalcommons.wayne.edu/libsp/86/](http://digitalcommons.wayne.edu/libsp/86/)
-
-*"Making It Up as We Go Along: How We Built Our Digital Collections Platform"*<br>
-Library Technology Conference, Minneapolis, MN - March, 2014<br>
-[http://digitalcommons.macalester.edu/libtech_conf/2014/sessions/6/](http://digitalcommons.macalester.edu/libtech_conf/2014/sessions/6/)
-
-### Regional
-
-*“Mapping Detroit’s Medical History: Data Workflows and Digitized Journals"*<br>
-Network Detroit, Southfield, MI - September, 2015<br>
-
-*“Digital Humanities and Social Sciences”*<br>
-Gale-Cengage, Michigan, July, 2015 [invited]
-
-*"Improving Our Reference Data, or How We Killed the Hash Mark"*<br>
-Michigan Library Association (MLA) Academic Libraries, Bay City, MI,  - May, 2015<br>
-[http://digitalcommons.wayne.edu/libsp/104/](http://digitalcommons.wayne.edu/libsp/104/)
-
-*"Starting from the Ground Up: How we Created our own Digital Collections Platform"*<br>
-MLA Annual 2014, Grand Rapids, MI - October, 2014<br>
-[http://digitalcommons.wayne.edu/libsp/96/](http://digitalcommons.wayne.edu/libsp/96/)
-
-*"Modeling Object Relationships in Fedora Commons using RDF"*<br>
-Mid-Michigan Digital Preservation Practioners (MMDPP), Mt. Pleasant, MI - September, 2014<br>
-[http://digitalcommons.wayne.edu/libsp/87/](http://digitalcommons.wayne.edu/libsp/87/)
-
-*"Wayne State University Libraries Digital Collections Platform: A New Home for Research on Detroit"*<br>
-Network Detroit, Southfield, MI - September, 2014<br>
-[http://digitalcommons.wayne.edu/libsp/95/](http://digitalcommons.wayne.edu/libsp/95/)
-
-*"Cleared for Deposit!  Tool for Reviewing Faculty CV's and Depositing Articles in an Institutional Repository" [poster]*<br>
-MLA Academic Libraries, Lansing, MI - May, 2014<br>
-[http://digitalcommons.wayne.edu/libsp/82/](http://digitalcommons.wayne.edu/libsp/82/)
-
-*“Digital Commons & SHARE: Opportunities and Challenges in Implementing the ARL Recommendations for DC Users”*<br>
-Digital Commons Great Lakes User Group Meeting 2013, Illinois Wesleyan University, Bloomington, Il - August, 2013<br>
-[http://digitalcommons.iwu.edu/dcglug/2013/bof/5/](http://digitalcommons.iwu.edu/dcglug/2013/bof/5/)
-
-*"Let There Be Light! Indexing Items from Digital Commons in Apache Solr via OAI-PMH" [poster]*<br>
-Digital Commons Great Lakes User Group (DCGLUG), Bloomington-Normal, IA - July, 2013<br>
-[http://digitalcommons.wayne.edu/libsp/68/](http://digitalcommons.wayne.edu/libsp/68/)
-
-*“What is Fedora Commons, and Why Should You Care?”*<br>
-Michigan Library Association (MLA), Detroit, MI - March, 2013<br>
-[http://digitalcommons.wayne.edu/libsp/60/](http://digitalcommons.wayne.edu/libsp/60/)
+*Reticulating Splines....*
 
 
 ## Code Contribution
