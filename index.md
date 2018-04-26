@@ -23,7 +23,8 @@ title: Graham Hukill CV
 ## Academic Appointments
 
 **University of Michigan, School of Information** - Intermittent Lecturer, 2013-Present<br>
-* SI629, Access Systems
+* SI629, Access Systems (2013, 2016, 2017)
+* SI570, Semantics-Based Knowledge Description and Organization (2018)
 
 **Wayne State University, School of Library and Information Science** - Lecturer, 2015-2015<br>
 * 7740, Digital Libraries
@@ -39,7 +40,6 @@ title: Graham Hukill CV
 *Detroit, MI (July 2012 - Present)*<br>
 
  * Develop and manage Digital Collections platform for University Library System, providing long-term preservation and access of unique materials
- * Assist with scholarly communications and publishing activities
 
 
 **Archive-It / Internet Archive** - Independent Contractor<br>
